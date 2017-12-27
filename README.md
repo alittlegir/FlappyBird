@@ -1,1 +1,2 @@
 # FlappyBird
+canvas结合javascript制作的FlappyBird游戏
